@@ -46,7 +46,8 @@ The project uses the Fashion MNIST dataset. Download the dataset files (fashion-
 The CNN achieved the following performance metrics:
 1. Validation accuracy : 89%
 2. Precision, Recall, and F1-score for each class:
-                 precision    recall  f1-score   
+
+   precision    recall  f1-score   
 
  T-shirt/top       0.87      0.81      0.84      
      Trouser       0.96      0.99      0.97      
