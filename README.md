@@ -64,10 +64,10 @@ The CNN achieved the following performance metrics:
 ---
 
 ## Technologies Used
-Python
-TensorFlow and Keras
-Pandas and NumPy
-Matplotlib
-Scikit-learn
+- Python
+- TensorFlow and Keras
+- Pandas and NumPy
+- Matplotlib
+- Scikit-learn
 
 ---
